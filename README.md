@@ -33,8 +33,8 @@ It allows you to interact with Discord webhooks, fetch guild information, and ch
 
 1. **Clone the repo**
     ```bash
-    git clone https://github.com/yourusername/dctool.git
-    cd dctool
+    git clone https://github.com/dionabazi/Discord-Tool.git
+    cd Discord-Tool
     ```
 
 2. **Build the project**
