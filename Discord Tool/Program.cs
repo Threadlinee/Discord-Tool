@@ -59,7 +59,7 @@ namespace dctool
  ░ ░  ░ ░             ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░   
    ░    ░ ░                      ░ ░      ░ ░      ░  ░
  ░      ░                                              
-               dctool  - @d_540sno
+               dctool  - Add discord: snoglide540
 ");
         }
 
