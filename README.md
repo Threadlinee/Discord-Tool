@@ -107,12 +107,3 @@ This project is licensed under the MIT License.
 yaml
 Copy
 Edit
-
----
-
-### ✅ Tips:
-- Replace `https://github.com/yourusername/dctool.git` and author details with your actual GitHub username.
-- Create a `LICENSE` file (MIT is great for open source).
-- You can add a cool banner/logo at the top of the README if you want!
-
----
