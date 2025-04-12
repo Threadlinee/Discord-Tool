@@ -1,5 +1,11 @@
 # dctool 💬
 
+![image](https://github.com/user-attachments/assets/33d3f2ac-ee0c-4740-b862-4a3ce836dda3)
+
+
+![image](https://github.com/user-attachments/assets/257bc567-8d99-40ed-86ef-98174c8f4ae3)
+
+
 **dctool** is a powerful and lightweight console-based Discord utility built in C#.  
 It allows you to interact with Discord webhooks, fetch guild information, and check member status — all through a clean terminal UI.
 
