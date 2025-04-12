@@ -116,5 +116,3 @@ Edit
 - You can add a cool banner/logo at the top of the README if you want!
 
 ---
-
-Want a badge pack? Or GitHub Actions CI build status? I can hook you up. 😎
