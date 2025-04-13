@@ -105,7 +105,7 @@ namespace dctool
                         Console.WriteLine($"[X] Failed to send message {i}/{count} - Status: {response.StatusCode}");
                     }
 
-                    await Task.Delay(100);
+                    await Task.Delay(20);
                 }
             }
 
