@@ -26,6 +26,13 @@ It allows you to interact with Discord webhooks, fetch guild information, and ch
 - [.NET 6 SDK or later](https://dotnet.microsoft.com/download)
 - Discord **bot token** with proper permissions and intents
   - `GUILD_MEMBERS` intent **must** be enabled in the bot settings
+    
+wget https://packages.microsoft.com/config/debian/12/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
+sudo dpkg -i packages-microsoft-prod.deb
+sudo apt-get update
+
+# Install the .NET 8 SDK
+sudo apt-get install -y dotnet-sdk-8.0
 
 ---
 
