@@ -59,7 +59,7 @@ namespace dctool
  ░ ░  ░ ░             ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░   
    ░    ░ ░                      ░ ░      ░ ░      ░  ░
  ░      ░                                                               
-               dctool  - Add discord: snoglide540
+               dctool  - Add discord: threadline_
 ");
         }
 
