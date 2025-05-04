@@ -1,15 +1,3 @@
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('dionabazi', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
-
-
-
 # dctool 💬
 
 ![image](https://github.com/user-attachments/assets/33d3f2ac-ee0c-4740-b862-4a3ce836dda3)
