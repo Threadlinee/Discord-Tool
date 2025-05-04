@@ -118,3 +118,8 @@ Contributions welcome! Open a PR or issue to improve the tool.
 
 📃 License
 This project is licensed under the MIT License.
+
+## ☕ Support Me
+If you like this project, feel free to [buy me a coffee](https://ko-fi.com/G2G114SBVV)!
+
+[![Buy Me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G114SBVV)
